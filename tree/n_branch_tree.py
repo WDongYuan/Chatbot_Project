@@ -17,6 +17,7 @@ class Node:
 			+str(self.vector)+" "+str(self.joke)+" "\
 			+str(self.questionSet)+" infervector: "+str(self.infervector))
 	def LeafGetJoke(self,moviename):
+		print(self.vector,moviename)
 		tmpv = Gateway(self.vector,moviename)
 		# tmpv = ["1","1","1","1","1"]
 		error = 0
@@ -82,7 +83,7 @@ class Tree:
 			if ans == self.pointer.branchclass[i]:
 				self.pointer = self.pointer.child[i]
 		if self.pointer.name=="joke":
-			print(self.pointer.LeafGetJoke("Hello"))
+			print(self.pointer.LeafGetJoke("Avatar"))
 			self.Initialize()
 			
 
@@ -115,7 +116,7 @@ tree = Tree(feature,questionMap,["yes","no","don't know"])
 for sample in data:
 	print(sample)
 	tree.AddSample(sample[0],sample[1],sample[2])
-tree.ShowTree(tree.root)
+# tree.ShowTree(tree.root)
 
 tree.AskQuestion()
 tree.Answer(raw_input(""))
