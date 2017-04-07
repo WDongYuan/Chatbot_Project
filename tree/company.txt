@@ -1,0 +1,66 @@
+linkinteractive
+vivint smarthome
+ADT
+frontpointsecurity
+
+- Opportunity
+- Solution & Value Proposition
+- Solution Architecture
+    - Sensor -> Compute -> Actuator
+    - Cloud/data
+    - Other areas
+- Market Size
+- Competition and Differentiation
+
+linkinteractive
+Opportunity: Protect the home from invasion of thief
+Solution & Value Proposition: 24 hours monitoring, door and window snesors to detect any stranger
+*
+Solution Architecture: 
+The camera in home open 24 hours a day. The user can use the application can login there home security system and then check the status directly
+*
+Market Size:
+All the home owner.
+*
+Competition and Differentiation:
+$34.99/month for the service: more expensive
+All the cameras are 24-hour on: electrocity wasting
+Equipments are more expensive
+
+
+vivint smarthome:
+Opportunity: Protect the home from invasion of thief
+Solution & Value Proposition: 24 hours monitoring, Burglary Detection for window, smart lock can be control remotely
+*
+Solution Architecture:
+The security agent monitor the house 24 hours a day through the outdoor and indoor cameras remotely
+User can use the application to check home status and open the lock.
+*
+Market Size:
+All the home owner.
+*
+Competition and Differentiation:
+All the cameras are 24-hour on: electrocity wasting
+Equipments are more expensive
+
+
+ADT:
+Opportunity: Protection from burglary, fire, high levels of carbon monoxide, medical emergencies and more
+Solution & Value Proposition: 24 hours monitoring, Remote Access, 
+*
+Solution Architecture:
+There are monitoring center of the system. All the camera in the house will send the vedio to the center. The agent will monitor the status 24 hours a day.
+*
+Market Size:
+All the houses and companies.
+*
+Competition and Differentiation:
+All the cameras are 24-hour on: electrocity wasting
+Equipments are more expensive
+
+
+
+
+
+
+
